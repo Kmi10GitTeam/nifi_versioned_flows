@@ -1,5 +1,8 @@
 flows:
   a14a30b3-b3b1-49e9-a1b9-bb723278eff5: {ver: 1, file: FLujo2.snapshot, comments: For
       GIT, author: anonymous, created: 1602041523728, flowName: FLujo2, flowDesc: 'Git '}
+  c4a4ccc3-7301-4a9a-9c23-1b0f96a7a19c: {ver: 1, file: INT2020-AWSUpdate.snapshot,
+    comments: This is for Git Testing Purposes, author: anonymous, created: 1602042092373,
+    flowName: INT2020-AWSUpdate, flowDesc: This is for Git Testing Purposes}
 layoutVer: 1
 bucketId: f5e7ed87-70ea-4825-8dd6-984888d9a21b
