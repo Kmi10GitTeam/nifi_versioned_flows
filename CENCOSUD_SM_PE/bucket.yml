@@ -1,4 +1,6 @@
 flows:
+  bcad887e-a9d6-41ca-b70a-263d79e8ca53: {ver: 1, file: Test_CICD.snapshot, comments: TEst,
+    author: anonymous, created: 1602095470986, flowName: Test CICD, flowDesc: ''}
   d73a1473-457a-4a04-b764-942f82a74f8c: {ver: 1, file: FLujo_SM_PE.snapshot, comments: FLujo_SM_PE,
     author: anonymous, created: 1602042428705, flowName: FLujo_SM_PE, flowDesc: FLujo_SM_PE}
 layoutVer: 1
