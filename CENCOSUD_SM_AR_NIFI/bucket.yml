@@ -1,6 +1,9 @@
 flows:
   10f9e0f5-803f-489d-ae6c-d0072068520f: {ver: 2, file: flujo1.snapshot, comments: test,
     author: anonymous, created: 1602041769839, flowName: flujo1, flowDesc: g}
+  d6ed0b25-b938-46d0-b4be-9422037624e8: {ver: 1, file: FLujo_SM_AR_NIFI.snapshot,
+    comments: FLujo_SM_AR_NIFI, author: anonymous, created: 1602042390971, flowName: FLujo_SM_AR_NIFI,
+    flowDesc: FLujo_SM_AR_NIFI}
   e0ac860e-9d9f-40b1-a00f-cd27c4918c6b: {ver: 1, file: INT2020-AWSUpdate.snapshot,
     comments: Version 1., author: anonymous, created: 1602042020004, flowName: INT2020-AWSUpdate,
     flowDesc: This is for Git Testing Purposes}
