@@ -3,5 +3,7 @@ flows:
     author: anonymous, created: 1602095470986, flowName: Test CICD, flowDesc: ''}
   d73a1473-457a-4a04-b764-942f82a74f8c: {ver: 1, file: FLujo_SM_PE.snapshot, comments: FLujo_SM_PE,
     author: anonymous, created: 1602042428705, flowName: FLujo_SM_PE, flowDesc: FLujo_SM_PE}
+ bcad887e-a9d6-41ca-b70a-263d79e8ca54: {ver: 1, file: flujoCreadoGIT.snapshot, comments: TEst,
+    author: anonymous, created: 1602095470987, flowName: flujoCreadoGIT., flowDesc: ''}
 layoutVer: 1
 bucketId: 0b673ecd-6d1d-4472-990b-fcc39e24fc50
